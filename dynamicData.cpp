@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int *a = new int;
-    *a = 10;
+    cin >> *a;
     cout << *a;
 
     // int x = 100;
